@@ -1,8 +1,9 @@
 ### Hi, I'm Shivani Agarwal! <img src="https://camo.githubusercontent.com/75dc1c8b7e5ab93cc6a6f22cdd58e8f8384245cc/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="50" data-canonical-src="https://media.giphy.com/media/ibAnAqZ9lpkif1ru6W/giphy.gif" style="max-width:100%;">
 
-  <img align="right" src="https://media.giphy.com/media/ibAnAqZ9lpkif1ru6W/giphy.gif" width="230" data-canonical-src="" style="max-width:100%;">
+  <img align="right" src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230" data-canonical-src="" style="max-width:100%;">
 
-
+<br>
+<br>
 I am a pre-final year student at UPES, Dehradun, pursuing my Bachelors in Computer Science. I am passionate towards work. My area of interest is Full Stack Web Development. My specialities include quickly learning new programming languages, new skills, hardworking, time punctual. ✨
 
 I have done internship as a Web Developer at @UmbeoTechnologies and currently doing internship @HPCL. 😄
