@@ -3,13 +3,10 @@
   <img align="right" src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230" data-canonical-src="" style="max-width:100%;">
 
 <br>
-<br>
 I am a pre-final year student at UPES, Dehradun, pursuing my Bachelors in Computer Science. I am passionate towards work. My area of interest is Full Stack Web Development. My specialities include quickly learning new programming languages, new skills, hardworking, time punctual. ✨
 
 I have done internship as a Web Developer at @UmbeoTechnologies and currently doing internship @HPCL. 😄
-
-So far I know JavaScript, HTML, CSS, Python, React, Bootstrap, jQuery, C, C++, Java, Php, SQL, Git. I've started learning Node.JS, MongoDB and Express.JS. I am still searching for new frameworks, new programming languages, new technologies to learn them. <g-emoji class="g-emoji" alias="woman_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png">👩‍💻</g-emoji>
-
+<br>
 <g-emoji class="g-emoji" alias="woman_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png">👩‍💻</g-emoji>Code: C, C++, Core Java, Python, HTML, CSS, Bootstrap, JavaScript, Jquery, Php, React 
 <br>
 <br>
