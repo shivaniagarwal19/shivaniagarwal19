@@ -14,7 +14,7 @@ So far I know JavaScript, HTML, CSS, Python, React, Bootstrap, jQuery, C, C++, J
 🗄️ Database: MS-SQL Server, MySQL
 
 <br>
-For more details visit my portfolio  
+For more details visit my portfolio -   
 <br>
 <br>
 <a href="https://shivaniagarwal19.github.io/ShivaniAgarwal/" rel="nofollow">
@@ -22,6 +22,8 @@ For more details visit my portfolio
 </a>
 <br>
 <br>
+<br>
+Contact Me - 
 <br>
 <a href="https://www.linkedin.com/in/shivani-agarwal-36a3a5172/" rel="nofollow">
   <img align="left" alt="Shivani's LinkedIn" src="https://camo.githubusercontent.com/eca542b34eb4b29c6e900acf1ed2d9809bdbc7f8/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f6c696e6b6564696e2e706e67" data-canonical-src="https://img.icons8.com/bubbles/50/000000/linkedin.png" style="max-width:100%;">
