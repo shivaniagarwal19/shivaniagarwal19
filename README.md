@@ -8,7 +8,7 @@ I have done internships as a Web Developer @UmbeoTechnologies and currently doin
 
 So far I know JavaScript, HTML, CSS, Python, React, Bootstrap, jQuery, C, C++, Java, Php, SQL, Git. I've started learning Node.JS, MongoDB and Express.JS. I am still searching for new frameworks, new programming languages, new technologies to learn them. 👩💻
 
-👩💻 Code: C, C++, Core Java, Python, HTML, CSS, Bootstrap, JavaScript, Jquery, Php, React 
+<g-emoji class="g-emoji" alias="woman_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png">👩‍💻</g-emoji>Code: C, C++, Core Java, Python, HTML, CSS, Bootstrap, JavaScript, Jquery, Php, React 
 <br>
 🗄️ Database: MS-SQL Server, MySQL
 
