@@ -8,14 +8,18 @@ I have done internships as a Web Developer @UmbeoTechnologies and currently doin
 
 So far I know JavaScript, HTML, CSS, Python, React, Bootstrap, jQuery, C, C++, Java, Php, SQL, Git. I've started learning Node.JS, MongoDB and Express.JS. I am still searching for new frameworks, new programming languages, new technologies to learn them. 👩💻
 
-👩💻 Code: C, C++, Core Java, Python, HTML, CSS, Bootstrap, JavaScript, Jquery, Php, React
+👩💻 Code: C, C++, Core Java, Python, HTML, CSS, Bootstrap, JavaScript, Jquery, Php, React 
+<br>
 🗄️ Database: MS-SQL Server, MySQL
 
-For more details visit my portfolio 
+<br>
+For more details visit my portfolio  
+<br>
 <a href="https://shivaniagarwal19.github.io/ShivaniAgarwal/" rel="nofollow">
   <img align="left" alt="Shivani's Portfolio" src="https://camo.githubusercontent.com/c396362de33c61b216bee6f313b3da0136970064/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f32782f6d6f6e69746f722e706e67" width="50" data-canonical-src="https://img.icons8.com/bubbles/2x/monitor.png" style="max-width:100%;">
 </a>
 
+<br>
 <a href="https://www.linkedin.com/in/shivani-agarwal-36a3a5172/" rel="nofollow">
   <img align="left" alt="Shivani's LinkedIn" src="https://camo.githubusercontent.com/eca542b34eb4b29c6e900acf1ed2d9809bdbc7f8/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f6c696e6b6564696e2e706e67" data-canonical-src="https://img.icons8.com/bubbles/50/000000/linkedin.png" style="max-width:100%;">
 </a>
