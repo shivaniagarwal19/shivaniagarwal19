@@ -18,7 +18,8 @@ For more details visit my portfolio -
 
 <br>
 <br>
-<p> Connect to me </p>
+<br>
+<p> Connect to me - </p>
 <a href="https://www.linkedin.com/in/shivani-agarwal-36a3a5172/" rel="nofollow">
   <img align="left" alt="Shivani's LinkedIn" src="https://camo.githubusercontent.com/eca542b34eb4b29c6e900acf1ed2d9809bdbc7f8/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f35302f3030303030302f6c696e6b6564696e2e706e67" data-canonical-src="https://img.icons8.com/bubbles/50/000000/linkedin.png" style="max-width:100%;">
 </a>
