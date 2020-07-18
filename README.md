@@ -13,7 +13,7 @@ I have done internship as a Web Developer at @UmbeoTechnologies and currently do
 For more details visit my portfolio -   
 
 <a href="https://shivaniagarwal19.github.io/ShivaniAgarwal/" rel="nofollow">
-  <img align="left" alt="Shivani's Portfolio" src="https://camo.githubusercontent.com/c396362de33c61b216bee6f313b3da0136970064/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f32782f6d6f6e69746f722e706e67" width="50" data-canonical-src="https://img.icons8.com/bubbles/2x/monitor.png" style="max-width:100%;">
+  <img align="left" alt="Shivani's Portfolio" src="<img src="https://img.icons8.com/bubbles/50/000000/test-account.png"/>" width="50" style="max-width:100%;">
 </a>
 
 <br>
