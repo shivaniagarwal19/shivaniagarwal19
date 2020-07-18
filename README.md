@@ -31,3 +31,7 @@ For more details visit my portfolio -
 <a href="mailto: shivani.a1906@gmail.com">
   <img align="left" alt="Shivani's Email" src="https://camo.githubusercontent.com/2bcf2cf2d6b4062d536131f709b2c77bbc80c9ae/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f32782f676d61696c2e706e67" width="50" data-canonical-src="https://img.icons8.com/bubbles/2x/gmail.png" style="max-width:100%;">
 </a>
+
+<a href="https://secure.skype.com/portal/profile">
+  <img align="left" alt="Shivani's Skype" src="https://camo.githubusercontent.com/2bcf2cf2d6b4062d536131f709b2c77bbc80c9ae/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f32782f676d61696c2e706e67" width="50" data-canonical-src="https://img.icons8.com/bubbles/50/000000/skype.png" style="max-width:100%;">
+</a>
